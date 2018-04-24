@@ -1,0 +1,16 @@
+{
+    "name": "filesystem",
+    "version": "1.0.0",
+    "description": "CMD App",
+    "main": "file.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon file.js"
+    },
+    "author": "VG",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.2.1",
+        "yargs": "^11.0.0"
+    }
+}
